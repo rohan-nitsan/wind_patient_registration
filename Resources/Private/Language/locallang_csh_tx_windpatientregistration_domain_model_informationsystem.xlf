@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:wind_patient_registration/Resources/Private/Language/locallang_csh_tx_windpatientregistration_domain_model_informationsystem.xlf" date="2024-08-21T10:41:39Z" product-name="wind_patient_registration">
+		<header/>
+		<body>
+			<trans-unit id="title.description" resname="title.description">
+				<source>title</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:wind_patient_registration/Resources/Private/Language/locallang_csh_tx_windpatientregistration_domain_model_childregistration.xlf" date="2024-08-21T10:41:39Z" product-name="wind_patient_registration">
+		<header/>
+		<body>
+			<trans-unit id="bsn.description" resname="bsn.description">
+				<source>bsn</source>
+			</trans-unit>
+			<trans-unit id="birthday.description" resname="birthday.description">
+				<source>birthday</source>
+			</trans-unit>
+			<trans-unit id="permission_required.description" resname="permission_required.description">
+				<source>permissionRequired</source>
+			</trans-unit>
+			<trans-unit id="guardian_name.description" resname="guardian_name.description">
+				<source>guardianName</source>
+			</trans-unit>
+			<trans-unit id="guardian_email.description" resname="guardian_email.description">
+				<source>guardianEmail</source>
+			</trans-unit>
+			<trans-unit id="status.description" resname="status.description">
+				<source>status</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

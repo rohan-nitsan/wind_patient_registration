@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:wind_patient_registration/Resources/Private/Language/locallang_db.xlf" date="2024-08-21T10:41:39Z" product-name="wind_patient_registration">
+		<header/>
+		<body>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider" resname="tx_windpatientregistration_domain_model_careprovider">
+				<source>Care Provider</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.description" resname="tx_windpatientregistration_domain_model_careprovider.description">
+				<source>Care Provider</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.title" resname="tx_windpatientregistration_domain_model_careprovider.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.title.description" resname="tx_windpatientregistration_domain_model_careprovider.title.description">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.website" resname="tx_windpatientregistration_domain_model_careprovider.website">
+				<source>Website</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.website.description" resname="tx_windpatientregistration_domain_model_careprovider.website.description">
+				<source>Website</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.street" resname="tx_windpatientregistration_domain_model_careprovider.street">
+				<source>Street</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.street.description" resname="tx_windpatientregistration_domain_model_careprovider.street.description">
+				<source>Street</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.house_number" resname="tx_windpatientregistration_domain_model_careprovider.house_number">
+				<source>House Number</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.house_number.description" resname="tx_windpatientregistration_domain_model_careprovider.house_number.description">
+				<source>House Number</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.house_number_addition" resname="tx_windpatientregistration_domain_model_careprovider.house_number_addition">
+				<source>House Number Addition</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.house_number_addition.description" resname="tx_windpatientregistration_domain_model_careprovider.house_number_addition.description">
+				<source>House Number Addition</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.zip" resname="tx_windpatientregistration_domain_model_careprovider.zip">
+				<source>Zip</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.zip.description" resname="tx_windpatientregistration_domain_model_careprovider.zip.description">
+				<source>Zip</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.email" resname="tx_windpatientregistration_domain_model_careprovider.email">
+				<source>Email</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.email.description" resname="tx_windpatientregistration_domain_model_careprovider.email.description">
+				<source>Email</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.email_administration" resname="tx_windpatientregistration_domain_model_careprovider.email_administration">
+				<source>Email Administration</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.email_administration.description" resname="tx_windpatientregistration_domain_model_careprovider.email_administration.description">
+				<source>Email Administration</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.longitude" resname="tx_windpatientregistration_domain_model_careprovider.longitude">
+				<source>Longitude</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.longitude.description" resname="tx_windpatientregistration_domain_model_careprovider.longitude.description">
+				<source>Longitude</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.latitude" resname="tx_windpatientregistration_domain_model_careprovider.latitude">
+				<source>Latitude</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.latitude.description" resname="tx_windpatientregistration_domain_model_careprovider.latitude.description">
+				<source>Latitude</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.status" resname="tx_windpatientregistration_domain_model_careprovider.status">
+				<source>Status</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.status.description" resname="tx_windpatientregistration_domain_model_careprovider.status.description">
+				<source>Status</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.credit" resname="tx_windpatientregistration_domain_model_careprovider.credit">
+				<source>Credit</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.credit.description" resname="tx_windpatientregistration_domain_model_careprovider.credit.description">
+				<source>Credit</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.type" resname="tx_windpatientregistration_domain_model_careprovider.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.type.description" resname="tx_windpatientregistration_domain_model_careprovider.type.description">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.info_system" resname="tx_windpatientregistration_domain_model_careprovider.info_system">
+				<source>Info System</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.info_system.description" resname="tx_windpatientregistration_domain_model_careprovider.info_system.description">
+				<source>Info System</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.service_area" resname="tx_windpatientregistration_domain_model_careprovider.service_area">
+				<source>Service Area</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_careprovider.service_area.description" resname="tx_windpatientregistration_domain_model_careprovider.service_area.description">
+				<source>Service Area</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caregroup" resname="tx_windpatientregistration_domain_model_caregroup">
+				<source>Care Group</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caregroup.description" resname="tx_windpatientregistration_domain_model_caregroup.description">
+				<source>Care Group</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caregroup.title" resname="tx_windpatientregistration_domain_model_caregroup.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caregroup.title.description" resname="tx_windpatientregistration_domain_model_caregroup.title.description">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caregroup.healthcare_provider" resname="tx_windpatientregistration_domain_model_caregroup.healthcare_provider">
+				<source>Healthcare Provider</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caregroup.healthcare_provider.description" resname="tx_windpatientregistration_domain_model_caregroup.healthcare_provider.description">
+				<source>Healthcare Provider</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caretype" resname="tx_windpatientregistration_domain_model_caretype">
+				<source>Care Type</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caretype.description" resname="tx_windpatientregistration_domain_model_caretype.description">
+				<source>Care Type</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caretype.title" resname="tx_windpatientregistration_domain_model_caretype.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_caretype.title.description" resname="tx_windpatientregistration_domain_model_caretype.title.description">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_informationsystem" resname="tx_windpatientregistration_domain_model_informationsystem">
+				<source>Information System</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_informationsystem.description" resname="tx_windpatientregistration_domain_model_informationsystem.description">
+				<source>Information System</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_informationsystem.title" resname="tx_windpatientregistration_domain_model_informationsystem.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_informationsystem.title.description" resname="tx_windpatientregistration_domain_model_informationsystem.title.description">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_servicearea" resname="tx_windpatientregistration_domain_model_servicearea">
+				<source>Service Area</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_servicearea.description" resname="tx_windpatientregistration_domain_model_servicearea.description">
+				<source>Service Area</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_servicearea.start" resname="tx_windpatientregistration_domain_model_servicearea.start">
+				<source>Start</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_servicearea.start.description" resname="tx_windpatientregistration_domain_model_servicearea.start.description">
+				<source>Start</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_servicearea.end" resname="tx_windpatientregistration_domain_model_servicearea.end">
+				<source>End</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_servicearea.end.description" resname="tx_windpatientregistration_domain_model_servicearea.end.description">
+				<source>End</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration" resname="tx_windpatientregistration_domain_model_childregistration">
+				<source>Child Registration</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.description" resname="tx_windpatientregistration_domain_model_childregistration.description">
+				<source>Child Registration</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.bsn" resname="tx_windpatientregistration_domain_model_childregistration.bsn">
+				<source>Bsn</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.bsn.description" resname="tx_windpatientregistration_domain_model_childregistration.bsn.description">
+				<source>Bsn</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.birthday" resname="tx_windpatientregistration_domain_model_childregistration.birthday">
+				<source>Birthday</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.birthday.description" resname="tx_windpatientregistration_domain_model_childregistration.birthday.description">
+				<source>Birthday</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.permission_required" resname="tx_windpatientregistration_domain_model_childregistration.permission_required">
+				<source>Permission Required</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.permission_required.description" resname="tx_windpatientregistration_domain_model_childregistration.permission_required.description">
+				<source>Permission Required</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.guardian_name" resname="tx_windpatientregistration_domain_model_childregistration.guardian_name">
+				<source>Guardian Name</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.guardian_name.description" resname="tx_windpatientregistration_domain_model_childregistration.guardian_name.description">
+				<source>Guardian Name</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.guardian_email" resname="tx_windpatientregistration_domain_model_childregistration.guardian_email">
+				<source>Guardian Email</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.guardian_email.description" resname="tx_windpatientregistration_domain_model_childregistration.guardian_email.description">
+				<source>Guardian Email</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.status" resname="tx_windpatientregistration_domain_model_childregistration.status">
+				<source>Status</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_childregistration.status.description" resname="tx_windpatientregistration_domain_model_childregistration.status.description">
+				<source>Status</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield" resname="tx_windpatientregistration_domain_model_formfield">
+				<source>Form Field</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield.description" resname="tx_windpatientregistration_domain_model_formfield.description">
+				<source>Form Field</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield.title" resname="tx_windpatientregistration_domain_model_formfield.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield.title.description" resname="tx_windpatientregistration_domain_model_formfield.title.description">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield.type" resname="tx_windpatientregistration_domain_model_formfield.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield.type.description" resname="tx_windpatientregistration_domain_model_formfield.type.description">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield.options" resname="tx_windpatientregistration_domain_model_formfield.options">
+				<source>Options</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield.options.description" resname="tx_windpatientregistration_domain_model_formfield.options.description">
+				<source>Options</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield.healthcare_provider" resname="tx_windpatientregistration_domain_model_formfield.healthcare_provider">
+				<source>Healthcare Provider</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_formfield.healthcare_provider.description" resname="tx_windpatientregistration_domain_model_formfield.healthcare_provider.description">
+				<source>Healthcare Provider</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting" resname="tx_windpatientregistration_domain_model_fieldsorting">
+				<source>Field Sorting</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting.description" resname="tx_windpatientregistration_domain_model_fieldsorting.description">
+				<source>Field Sorting</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting.field" resname="tx_windpatientregistration_domain_model_fieldsorting.field">
+				<source>Field</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting.field.description" resname="tx_windpatientregistration_domain_model_fieldsorting.field.description">
+				<source>Field</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting.field_sorting" resname="tx_windpatientregistration_domain_model_fieldsorting.field_sorting">
+				<source>Field Sorting</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting.field_sorting.description" resname="tx_windpatientregistration_domain_model_fieldsorting.field_sorting.description">
+				<source>Field Sorting</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting.options" resname="tx_windpatientregistration_domain_model_fieldsorting.options">
+				<source>Options</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting.options.description" resname="tx_windpatientregistration_domain_model_fieldsorting.options.description">
+				<source>Options</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting.healthcare_provider" resname="tx_windpatientregistration_domain_model_fieldsorting.healthcare_provider">
+				<source>Healthcare Provider</source>
+			</trans-unit>
+			<trans-unit id="tx_windpatientregistration_domain_model_fieldsorting.healthcare_provider.description" resname="tx_windpatientregistration_domain_model_fieldsorting.healthcare_provider.description">
+				<source>Healthcare Provider</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

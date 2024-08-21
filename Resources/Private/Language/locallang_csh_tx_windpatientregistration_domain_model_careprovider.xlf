@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:wind_patient_registration/Resources/Private/Language/locallang_csh_tx_windpatientregistration_domain_model_careprovider.xlf" date="2024-08-21T10:41:39Z" product-name="wind_patient_registration">
+		<header/>
+		<body>
+			<trans-unit id="title.description" resname="title.description">
+				<source>title</source>
+			</trans-unit>
+			<trans-unit id="website.description" resname="website.description">
+				<source>website</source>
+			</trans-unit>
+			<trans-unit id="street.description" resname="street.description">
+				<source>street</source>
+			</trans-unit>
+			<trans-unit id="house_number.description" resname="house_number.description">
+				<source>houseNumber</source>
+			</trans-unit>
+			<trans-unit id="house_number_addition.description" resname="house_number_addition.description">
+				<source>houseNumberAddition</source>
+			</trans-unit>
+			<trans-unit id="zip.description" resname="zip.description">
+				<source>zip</source>
+			</trans-unit>
+			<trans-unit id="email.description" resname="email.description">
+				<source>email</source>
+			</trans-unit>
+			<trans-unit id="email_administration.description" resname="email_administration.description">
+				<source>emailAdministration</source>
+			</trans-unit>
+			<trans-unit id="longitude.description" resname="longitude.description">
+				<source>longitude</source>
+			</trans-unit>
+			<trans-unit id="latitude.description" resname="latitude.description">
+				<source>latitude</source>
+			</trans-unit>
+			<trans-unit id="status.description" resname="status.description">
+				<source>status</source>
+			</trans-unit>
+			<trans-unit id="credit.description" resname="credit.description">
+				<source>credit</source>
+			</trans-unit>
+			<trans-unit id="type.description" resname="type.description">
+				<source>type</source>
+			</trans-unit>
+			<trans-unit id="info_system.description" resname="info_system.description">
+				<source>infoSystem</source>
+			</trans-unit>
+			<trans-unit id="service_area.description" resname="service_area.description">
+				<source>serviceArea</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
