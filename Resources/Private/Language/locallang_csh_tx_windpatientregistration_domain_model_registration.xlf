@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:wind_patient_registration/Resources/Private/Language/locallang_csh_tx_windpatientregistration_domain_model_registration.xlf" date="2024-08-21T11:50:23Z" product-name="wind_patient_registration">
+		<header/>
+		<body>
+			<trans-unit id="identifier.description" resname="identifier.description">
+				<source>identifier</source>
+			</trans-unit>
+			<trans-unit id="bsn.description" resname="bsn.description">
+				<source>bsn</source>
+			</trans-unit>
+			<trans-unit id="name.description" resname="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="first_name.description" resname="first_name.description">
+				<source>firstName</source>
+			</trans-unit>
+			<trans-unit id="initials.description" resname="initials.description">
+				<source>initials</source>
+			</trans-unit>
+			<trans-unit id="prefix.description" resname="prefix.description">
+				<source>prefix</source>
+			</trans-unit>
+			<trans-unit id="last_name.description" resname="last_name.description">
+				<source>lastName</source>
+			</trans-unit>
+			<trans-unit id="birthday.description" resname="birthday.description">
+				<source>birthday</source>
+			</trans-unit>
+			<trans-unit id="birth_place.description" resname="birth_place.description">
+				<source>birthPlace</source>
+			</trans-unit>
+			<trans-unit id="gender.description" resname="gender.description">
+				<source>gender</source>
+			</trans-unit>
+			<trans-unit id="street.description" resname="street.description">
+				<source>street</source>
+			</trans-unit>
+			<trans-unit id="house_number.description" resname="house_number.description">
+				<source>houseNumber</source>
+			</trans-unit>
+			<trans-unit id="house_number_addition.description" resname="house_number_addition.description">
+				<source>houseNumberAddition</source>
+			</trans-unit>
+			<trans-unit id="zip.description" resname="zip.description">
+				<source>zip</source>
+			</trans-unit>
+			<trans-unit id="city.description" resname="city.description">
+				<source>city</source>
+			</trans-unit>
+			<trans-unit id="verified.description" resname="verified.description">
+				<source>verified</source>
+			</trans-unit>
+			<trans-unit id="phone.description" resname="phone.description">
+				<source>phone</source>
+			</trans-unit>
+			<trans-unit id="phone2.description" resname="phone2.description">
+				<source>phone2</source>
+			</trans-unit>
+			<trans-unit id="phone3.description" resname="phone3.description">
+				<source>phone3</source>
+			</trans-unit>
+			<trans-unit id="phone4.description" resname="phone4.description">
+				<source>phone4</source>
+			</trans-unit>
+			<trans-unit id="phone5.description" resname="phone5.description">
+				<source>phone5</source>
+			</trans-unit>
+			<trans-unit id="email.description" resname="email.description">
+				<source>email</source>
+			</trans-unit>
+			<trans-unit id="status.description" resname="status.description">
+				<source>status</source>
+			</trans-unit>
+			<trans-unit id="healthcare_provider.description" resname="healthcare_provider.description">
+				<source>healthcareProvider</source>
+			</trans-unit>
+			<trans-unit id="children.description" resname="children.description">
+				<source>children</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -458,8 +458,8 @@
         {
             "config": {
                 "position": [
-                    1214,
-                    49
+                    988,
+                    27
                 ]
             },
             "name": "New Model Object",
@@ -745,6 +745,346 @@
                     ]
                 }
             }
+        },
+        {
+            "config": {
+                "position": [
+                    1284,
+                    20
+                ]
+            },
+            "name": "New Model Object",
+            "value": {
+                "actionGroup": {
+                    "_default0_index": false,
+                    "_default1_list": false,
+                    "_default2_show": false,
+                    "_default3_new_create": false,
+                    "_default4_edit_update": false,
+                    "_default5_delete": false,
+                    "customActions": []
+                },
+                "name": "Registration",
+                "objectsettings": {
+                    "addDeletedField": true,
+                    "addHiddenField": true,
+                    "addStarttimeEndtimeFields": true,
+                    "aggregateRoot": false,
+                    "categorizable": false,
+                    "description": "",
+                    "mapToTable": "",
+                    "parentClass": "",
+                    "sorting": false,
+                    "type": "Entity",
+                    "uid": "1461204383527"
+                },
+                "propertyGroup": {
+                    "properties": [
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "identifier",
+                            "propertyType": "String",
+                            "uid": "1339139436680"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "bsn",
+                            "propertyType": "String",
+                            "uid": "105600345809"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "name",
+                            "propertyType": "String",
+                            "uid": "1452174698827"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "firstName",
+                            "propertyType": "String",
+                            "uid": "472773428548"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "initials",
+                            "propertyType": "String",
+                            "uid": "1694470247749"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "prefix",
+                            "propertyType": "String",
+                            "uid": "1405292910224"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "lastName",
+                            "propertyType": "String",
+                            "uid": "1558346098027"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "birthday",
+                            "propertyType": "NativeDate",
+                            "uid": "1421360459959"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "birthPlace",
+                            "propertyType": "String",
+                            "uid": "1606384648904"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "gender",
+                            "propertyType": "String",
+                            "uid": "1640628601850"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "street",
+                            "propertyType": "String",
+                            "uid": "1029180338723"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "houseNumber",
+                            "propertyType": "String",
+                            "uid": "616139506859"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "houseNumberAddition",
+                            "propertyType": "String",
+                            "uid": "369400317781"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "zip",
+                            "propertyType": "String",
+                            "uid": "419041113402"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "city",
+                            "propertyType": "String",
+                            "uid": "471946491265"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "verified",
+                            "propertyType": "Boolean",
+                            "uid": "1319555382550"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "phone",
+                            "propertyType": "String",
+                            "uid": "298533203519"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "phone2",
+                            "propertyType": "String",
+                            "uid": "1553085562524"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "phone3",
+                            "propertyType": "String",
+                            "uid": "327823997320"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "phone4",
+                            "propertyType": "String",
+                            "uid": "140255577053"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "phone5",
+                            "propertyType": "String",
+                            "uid": "935442711300"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "email",
+                            "propertyType": "Email",
+                            "uid": "1192037723047"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsNullable": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "status",
+                            "propertyType": "Integer",
+                            "uid": "934934839928"
+                        }
+                    ]
+                },
+                "relationGroup": {
+                    "relations": [
+                        {
+                            "foreignRelationClass": "",
+                            "lazyLoading": false,
+                            "propertyIsExcludeField": true,
+                            "relationDescription": "",
+                            "relationName": "healthcareProvider",
+                            "relationType": "zeroToOne",
+                            "relationWire": "[wired]",
+                            "renderType": "selectSingle",
+                            "uid": "118513462390"
+                        },
+                        {
+                            "foreignRelationClass": "",
+                            "lazyLoading": false,
+                            "propertyIsExcludeField": true,
+                            "relationDescription": "",
+                            "relationName": "children",
+                            "relationType": "zeroToOne",
+                            "relationWire": "[wired]",
+                            "renderType": "selectSingle",
+                            "uid": "1566404879439"
+                        }
+                    ]
+                }
+            }
         }
     ],
     "properties": {
@@ -844,11 +1184,35 @@
                 "terminal": "SOURCES",
                 "uid": "1045580376910"
             }
+        },
+        {
+            "src": {
+                "moduleId": 8,
+                "terminal": "relationWire_0",
+                "uid": "118513462390"
+            },
+            "tgt": {
+                "moduleId": 0,
+                "terminal": "SOURCES",
+                "uid": "1045580376910"
+            }
+        },
+        {
+            "src": {
+                "moduleId": 8,
+                "terminal": "relationWire_1",
+                "uid": "1566404879439"
+            },
+            "tgt": {
+                "moduleId": 5,
+                "terminal": "SOURCES",
+                "uid": "915594515714"
+            }
         }
     ],
     "storagePath": "\/var\/www\/html\/typo3conf\/ext\/",
     "log": {
-        "last_modified": "2024-08-21 10:41",
+        "last_modified": "2024-08-21 11:50",
         "extension_builder_version": "11.0.13",
         "be_user": " (2)"
     }

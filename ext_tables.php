@@ -25,5 +25,8 @@ defined('TYPO3') || die();
 
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addLLrefForTCAdescr('tx_windpatientregistration_domain_model_fieldsorting', 'EXT:wind_patient_registration/Resources/Private/Language/locallang_csh_tx_windpatientregistration_domain_model_fieldsorting.xlf');
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::allowTableOnStandardPages('tx_windpatientregistration_domain_model_fieldsorting');
+
+    \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addLLrefForTCAdescr('tx_windpatientregistration_domain_model_registration', 'EXT:wind_patient_registration/Resources/Private/Language/locallang_csh_tx_windpatientregistration_domain_model_registration.xlf');
+    \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::allowTableOnStandardPages('tx_windpatientregistration_domain_model_registration');
 })();
 ## EXTENSION BUILDER DEFAULTS END TOKEN - Everything BEFORE this line is overwritten with the defaults of the extension builder
